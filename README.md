@@ -1,7 +1,3 @@
-Got it! Here’s an updated version of the **README.md** to reflect the use of **Google Colab**:
-
----
-
 # Heart Disease Prediction Using Machine Learning
 
 This project is a **Heart Disease Prediction** system built using **Machine Learning** techniques. The goal of this project is to predict whether an individual has a **healthy heart** or is at risk of having a **defective heart** based on various health-related attributes. The model is trained using **Logistic Regression** and evaluated for its accuracy and performance.
